@@ -1,0 +1,10 @@
+(librepcb_library 5d31e7d0-d52d-4d54-8c9c-3bd9c13710a4
+ (name "WeAct")
+ (description "Microcontroller boards by WeAct Studio (unofficial).")
+ (keywords "weact,stm32,micropython,arduino,devboard")
+ (author "LibrePCB")
+ (version "0.1")
+ (created 2022-07-16T14:00:07Z)
+ (deprecated false)
+ (url "https://github.com/LibrePCB-Libraries/WeAct.lplib")
+)
