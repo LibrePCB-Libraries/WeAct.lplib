@@ -1,0 +1,10 @@
+(librepcb_package_category 09002072-2c7a-484a-b584-e81fc44a0989
+ (name "WeAct")
+ (description "")
+ (keywords "")
+ (author "Danilo B.")
+ (version "0.1")
+ (created 2022-07-16T14:20:27Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
