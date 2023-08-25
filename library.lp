@@ -7,4 +7,5 @@
  (created 2022-07-16T14:00:07Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/WeAct.lplib")
+ (manufacturer "")
 )
